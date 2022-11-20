@@ -1,0 +1,102 @@
+[
+  {
+    "id": "6379c0150491f520adfd579e",
+    "price": 200,
+    "picture": "https://i.postimg.cc/qRRtK8JH/samsung-10.jpg",
+    "name": "Samsung FFC",
+    "company": "MEGALL",
+    "phone": "+1 (930) 436-2551",
+    "shipping": 8,
+    "quentity": 0
+  },
+  {
+    "id": "6379c0156a94b952f441aad8",
+    "price": 100,
+    "picture": "https://i.postimg.cc/q7QhgmdG/samsung-09.jpg",
+    "name": "Samsung CC",
+    "company": "ISOLOGICS",
+    "phone": "+1 (989) 450-3847",
+    "shipping": 10,
+    "quentity": 0
+  },
+  {
+    "id": "6379c015dc3a6b67e3b9c909",
+    "price": 120,
+    "picture": "https://i.postimg.cc/d0JZqbg1/samsung-08.jpg",
+    "name": "Samsung F0",
+    "company": "SNACKTION",
+    "phone": "+1 (888) 542-2453",
+    "shipping": 4,
+    "quentity": 0
+  },
+  {
+    "id": "6379c015ddced6502c93c57b",
+    "price": 230,
+    "picture": "https://i.postimg.cc/HkD7Nc2b/samsung-07.jpg",
+    "name": "Samsung FJ2",
+    "company": "SCENTRIC",
+    "phone": "+1 (846) 515-3524",
+    "shipping": 7,
+    "quentity": 0
+  },
+  {
+    "id": "6379c01554f3d2f8c3559bb7",
+    "price": 150,
+    "picture": "https://i.postimg.cc/L4WPz0gC/samsung-06.jpg",
+    "name": "Samsung FEX",
+    "company": "ENTROPIX",
+    "phone": "+1 (956) 456-2096",
+    "shipping": 9,
+    "quentity": 0
+  },
+  {
+    "id": "6379c015dd1da1d5a0e1331a",
+    "price": 212,
+    "picture": "https://i.postimg.cc/wM1sCDZQ/samsung-05.jpg",
+    "name": "Samsung FCSS",
+    "company": "BITTOR",
+    "phone": "+1 (984) 506-3976",
+    "shipping": 20,
+    "quentity": 0
+  },
+  {
+    "id": "6379c015cea10bc46a35c963",
+    "price": 215,
+    "picture": "https://i.postimg.cc/ydYRTMT5/samsung-04.jpg",
+    "name": "Samsung FCJ",
+    "company": "MAGMINA",
+    "phone": "+1 (929) 524-3329",
+    "shipping": 20,
+    "quentity": 0
+  },
+  {
+    "id": "6379c01534b10366a6590b6b",
+    "price": 340,
+    "picture": "https://i.postimg.cc/W4VgdFqs/samsung-03.jpg",
+    "name": "Samsung FW",
+    "company": "NETUR",
+    "phone": "+1 (848) 553-2998",
+    "shipping": 8,
+    "quentity": 0
+  },
+  {
+    "id": "6379c015040a4a9e77b42833",
+    "price": 203,
+    "picture": "https://i.postimg.cc/V6B7SPkV/samsung-02.jpg",
+    "name": "Samsung F10",
+    "company": "ISOPOP",
+    "phone": "+1 (863) 400-3502",
+    "shipping": 10,
+    "quentity": 0
+  },
+  {
+    "id": "6379c015e20233c5ecc718d0",
+    "price": 300,
+    "picture": "https://i.postimg.cc/bwB48PZ0/samsung-01.jpg",
+    "name": "Samsung AC",
+    "company": "ZILODYNE",
+    "phone": "+1 (906) 566-2557",
+    "shipping": 1,
+    "quentity": 0
+  }
+]
